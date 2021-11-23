@@ -5,12 +5,21 @@
 
 ## チュートリアルリンク
 
+### 概要
+
 [AWS IoTについて簡単にまとめてみた](https://recipe.kc-cloud.jp/archives/8538)
 
 [AWS IOT CORE 初級ハンズオン](https://aws-iot-core-for-beginners.workshop.aws/)
 
 [【入門】AWS IoT Coreを理解するために必要な6つのポイント](https://dev.classmethod.jp/articles/aws-iot-core-introduction/)
 
+
+## AWS IoT クイック接続
+
+[AWS IoT クイック接続を試してみましょう](https://docs.aws.amazon.com/ja_jp/iot/latest/developerguide/iot-quick-start.html)
+
+
+## 制作例
 
 [ミーティング中の来客時に便利 ! AWS IoT でインターホンと警告灯を連動させてみた](https://aws.amazon.com/jp/builders-flash/202101/iot-patlite/?awsf.filter-name=*all)
 
