@@ -18,6 +18,8 @@
 
 [AWS IoT クイック接続を試してみましょう](https://docs.aws.amazon.com/ja_jp/iot/latest/developerguide/iot-quick-start.html)
 
+[AWS IoT MQTT クライアントでデバイスの MQTT メッセージを表示する](https://docs.aws.amazon.com/ja_jp/iot/latest/developerguide/view-mqtt-messages.html)
+
 
 ## 制作例
 
