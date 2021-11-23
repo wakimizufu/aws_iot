@@ -5,7 +5,7 @@
 
 ## チュートリアルリンク
 
-### 概要
+### AWS概要
 
 [AWS IoTについて簡単にまとめてみた](https://recipe.kc-cloud.jp/archives/8538)
 
