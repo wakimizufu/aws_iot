@@ -20,6 +20,8 @@
 
 [AWS IoT MQTT クライアントでデバイスの MQTT メッセージを表示する](https://docs.aws.amazon.com/ja_jp/iot/latest/developerguide/view-mqtt-messages.html)
 
+[AWS IoT MQTT クライアント経由でのサブスクライブ](https://edukit.workshop.aws/jp/blinky-hello-world/blinking-the-leds.html#aws-iot-mqtt-クライアント経由でのサブスクライブ)
+
 
 ## 制作例
 
