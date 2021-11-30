@@ -5,7 +5,7 @@
 
 ## 調査内容
 
-AWS IoT モノ登録とMTQQメッセージ受信確認
+[AWS IoT モノ登録とMTQQメッセージ受信確認](https://github.com/wakimizufu/aws_iot/blob/main/regist_connect.md)
 
 
 ## チュートリアルリンク
