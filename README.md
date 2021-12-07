@@ -52,3 +52,6 @@ https://iot.keicode.com/raspberry-pi/pinout.php
 http://www.hogetan.net/note/memo/pi.html
 
 https://deviceplus.jp/hobby/raspberrypi_entry_039/
+
+https://akizukidenshi.com/catalog/faq/goodsfaq.aspx?goods=I-10882
+
