@@ -47,11 +47,12 @@
 
 ## Raspi I2C関連
 
-https://iot.keicode.com/raspberry-pi/pinout.php
+[Raspberry Pi 2/3 B ピン配置 (40ピン)](https://iot.keicode.com/raspberry-pi/pinout.php)
 
-http://www.hogetan.net/note/memo/pi.html
+[Rasberry Piを使う](http://www.hogetan.net/note/memo/pi.html)
 
-https://deviceplus.jp/hobby/raspberrypi_entry_039/
+[第39回「ラズベリーパイで温度・湿度・気圧をまとめて取得！AE-BME280でIC2通信」](https://deviceplus.jp/hobby/raspberrypi_entry_039/)
 
-https://akizukidenshi.com/catalog/faq/goodsfaq.aspx?goods=I-10882
+[秋月電子 AE-BME280](https://akizukidenshi.com/catalog/faq/goodsfaq.aspx?goods=I-10882)
 
+[bme280データシート 日本語訳](http://www.ne.jp/asahi/o-family/extdisk/BME280/BME280_DJP.pdf)
